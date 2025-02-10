@@ -1,8 +1,21 @@
-# React + Vite
+# EasyCalc
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## What is EasyCalc ?
+EasyCalc is a calculator developed using React.
 
-Currently, two official plugins are available:
+## What's next ?
+Many functionnalities are coming soon ! Like :
+1. Theme manager to customize your own calculator !
+2. Expert mode
+3. Mobile support
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## How can i run this ** *amazing* ** website ?
+To install simply run : 
+`npm install`
+
+And to start run : 
+`npm run dev`
+
+*~Et voila~*
+
+Enjoy !
