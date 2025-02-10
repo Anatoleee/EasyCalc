@@ -9,13 +9,13 @@ Many functionnalities are coming soon ! Like :
 2. Expert mode
 3. Mobile support
 
-## How can i run this ** *amazing* ** website ?
+## How can i run this *amazing* website ?
 To install simply run : 
 `npm install`
 
 And to start run : 
 `npm run dev`
 
-*~Et voila~*
+*~ Et voila ~*
 
 Enjoy !
