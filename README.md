@@ -16,6 +16,6 @@ To install simply run :
 And to start run : 
 `npm run dev`
 
-*~ Et voila ~*
+~ *Et voila*
 
 Enjoy !
